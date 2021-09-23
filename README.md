@@ -1,11 +1,9 @@
-# Synthwave 84 Powerpack Theme
+# Material Synthwave Alfred Powerpack Theme
 
-Here is an [Alfred Powerpack Theme](https://www.alfredapp.com/help/appearance/) based on [Synthwave '84](https://robbowen.digital/wrote-about/synthwave-84/), an experimental Visual Studio theme influenced "by the music and the cover artwork of modern Synthwave bands like FM-84, Timecop 1983 and The Midnight".
-
-[Discuss on Alfred Forum](https://www.alfredforum.com/topic/15740-a-theme-inspired-by-the-1980s-like-synthwave-84-for-vs-code/).
+Here is an [Alfred Powerpack Theme](https://www.alfredapp.com/help/appearance/) based on my [Material Synthwave](https://github.com/nexxai/material-synthwave-vscode) "a very simple and probably visually not-so-great mash-up of Robb Owen's SynthWave '84 window coloring and equinusocio's Material Theme font colorings." and [Chris Messina's Synthwave '84](https://github.com/chrismessina/alfred-theme-synthwave-84).
 
 <p align="center">
-  <a href="https://github.com/chrismessina/alfred-theme-synthwave-84/raw/main/synthwave-84.zip" class="button">
+  <a href="https://github.com/nexxai/material-synthwave-alfred/raw/main/material-synthwave.zip" class="button">
     Download Theme
   </a>
 </p>
@@ -14,14 +12,14 @@ Here is an [Alfred Powerpack Theme](https://www.alfredapp.com/help/appearance/) 
 
 Download the zip file below, unzip the file, and then double-click the `.alfredappearance` file to install it.
 
-This theme makes use of Source Foundry's [Hack](https://github.com/source-foundry/Hack) font. [Download it here](https://sourcefoundry.org/hack/).
+This theme makes use of Hoefler & Co's [Operator Mono](https://www.typography.com/blog/introducing-operator) font.
 
 ## Preview
 
-[![Synthwave 84 Theme - Alfred Theme Preview](./assets/synthwave-84.png)](./assets/synthwave-84.png)
+[![Synthwave 84 Theme - Alfred Theme Preview](./assets/material-synthwave.png)](./assets/material-synthwave.png)
 
 <p align="center">
-  <a href="https://github.com/chrismessina/alfred-theme-synthwave-84/raw/main/synthwave-84.zip" class="button">
+  <a href="https://github.com/nexxai/material-synthwave-alfred/raw/main/material-synthwave.zip" class="button">
     Download Theme
   </a>
 </p>
@@ -31,27 +29,11 @@ This theme makes use of Source Foundry's [Hack](https://github.com/source-foundr
 
 Disable the Alfred hat logo by checking: `Alfred Preferences › Appearance › Options › Hide hat on Alfred window`
 
-Disable result shortcuts by unchecking: `Alfred Preferences › Appearance › Options › Hide result shortcuts`
-
 Simplify results by switching the result subtext to "Only for Alternative Actions".
-
-[![Alfred Appearance Options](./assets/alfred-appearance-options.png)](./assets/alfred-appearance-options.png)
 
 ## Inspiration
 
-This theme was [originally requested](https://www.alfredforum.com/topic/15740-a-theme-inspired-by-the-1980s-like-synthwave-84-for-vs-code/) by [austriker](https://www.alfredforum.com/profile/19702-austriker/) in the Alfred Forum. These interfaces were used as inspiration:
-
 ### VS Code Theme
 
-![VS Theme](./assets/vs-theme.jpg)
+![VS Theme](./assets/vs-theme.png)
 
-
-### Carbon
-
-![Carbon Theme](./assets/carbon.png)
-
-## About
-
-This theme is unaffiliated with nor endorsed by Rob Bowen.
-
-<a href="https://www.alfredforum.com/topic/15740-a-theme-inspired-by-the-1980s-like-synthwave-84-for-vs-code/">Alfred Forum link</a>.
