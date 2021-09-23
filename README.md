@@ -16,7 +16,7 @@ This theme makes use of Hoefler & Co's [Operator Mono](https://www.typography.co
 
 ## Preview
 
-[![Synthwave 84 Theme - Alfred Theme Preview](./assets/material-synthwave.png)](./assets/material-synthwave.png)
+[![Material Synthwave Theme - Alfred Theme Preview](./assets/material-synthwave.png)](./assets/material-synthwave.png)
 
 <p align="center">
   <a href="https://github.com/nexxai/material-synthwave-alfred/raw/main/material-synthwave.zip" class="button">
