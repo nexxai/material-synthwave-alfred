@@ -1,6 +1,6 @@
 # Material Synthwave Alfred Powerpack Theme
 
-Here is an [Alfred Powerpack Theme](https://www.alfredapp.com/help/appearance/) based on my [Material Synthwave](https://github.com/nexxai/material-synthwave-vscode) "a very simple and probably visually not-so-great mash-up of Robb Owen's SynthWave '84 window coloring and equinusocio's Material Theme font colorings." and [Chris Messina's Synthwave '84](https://github.com/chrismessina/alfred-theme-synthwave-84).
+Here is an [Alfred Powerpack Theme](https://www.alfredapp.com/help/appearance/) based on my [Material Synthwave VSCode theme](https://github.com/nexxai/material-synthwave-vscode) "a very simple and probably visually not-so-great mash-up of Robb Owen's SynthWave '84 window coloring and equinusocio's Material Theme font colorings." and [Chris Messina's Synthwave '84](https://github.com/chrismessina/alfred-theme-synthwave-84).
 
 <p align="center">
   <a href="https://github.com/nexxai/material-synthwave-alfred/raw/main/material-synthwave.zip" class="button">
